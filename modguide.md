@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Lathund för kanalmoderatorer på Twitch
+=======
+# Lathund för kanalmoderatorer på Twitch.
+>>>>>>> 6f0cc7ac763fe99e77f011a52eef4deaaa8075bb
 _Version: 0.1_
 
 
